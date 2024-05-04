@@ -1,1 +1,3 @@
-# Twitter-Sentiment-Analysis
+# NLP-Emotion-Analyzer
+
+This project revolves around the development of a recurrent neural network (RNN) model tailored to recognize emotions in tweets. With an emphasis placed on data preprocessing and cleaning techniques within natural language processing (NLP). The dataset undergoes meticulous cleaning and transformation phases, including text normalization, tokenization, removal of stop words, and handling of special characters and emoticons. Through these efforts, the model aims to ensure the integrity and quality of input data, ultimately facilitating accurate classification of tweets into one of six emotions.
